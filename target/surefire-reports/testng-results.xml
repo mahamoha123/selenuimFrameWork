@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="10" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-03T12:05:36 EET" name="nopcommerce regression suite" finished-at="2022-06-03T12:05:47 EET" duration-ms="10748">
+    <groups>
+    </groups>
+    <test started-at="2022-06-03T12:05:36 EET" name="test" finished-at="2022-06-03T12:05:47 EET" duration-ms="10748">
+      <class name="Tests.UserRegistrationTestWithDDTandJavaFaker">
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:Tests.UserRegistrationTestWithDDTandJavaFaker@67b100fe]" started-at="2022-06-03T12:05:32 EET" name="startDriver" finished-at="2022-06-03T12:05:36 EET" duration-ms="4265" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="UserRegisterSuccessfully()[pri:1, instance:Tests.UserRegistrationTestWithDDTandJavaFaker@67b100fe]" started-at="2022-06-03T12:05:38 EET" name="UserRegisterSuccessfully" finished-at="2022-06-03T12:05:41 EET" duration-ms="2575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserRegisterSuccessfully -->
+        <test-method is-config="true" signature="screenshotOnFailure(org.testng.ITestResult)[pri:0, instance:Tests.UserRegistrationTestWithDDTandJavaFaker@67b100fe]" started-at="2022-06-03T12:05:41 EET" name="screenshotOnFailure" finished-at="2022-06-03T12:05:41 EET" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UserRegisterSuccessfully status=SUCCESS method=UserRegistrationTestWithDDTandJavaFaker.UserRegisterSuccessfully()[pri:1, instance:Tests.UserRegistrationTestWithDDTandJavaFaker@67b100fe] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotOnFailure -->
+        <test-method signature="RegisterdUserCanLogout()[pri:0, instance:Tests.UserRegistrationTestWithDDTandJavaFaker@67b100fe]" started-at="2022-06-03T12:05:41 EET" name="RegisterdUserCanLogout" finished-at="2022-06-03T12:05:42 EET" depends-on-methods="Tests.UserRegistrationTestWithDDTandJavaFaker.UserRegisterSuccessfully" duration-ms="1045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterdUserCanLogout -->
+        <test-method is-config="true" signature="screenshotOnFailure(org.testng.ITestResult)[pri:0, instance:Tests.UserRegistrationTestWithDDTandJavaFaker@67b100fe]" started-at="2022-06-03T12:05:42 EET" name="screenshotOnFailure" finished-at="2022-06-03T12:05:42 EET" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=RegisterdUserCanLogout status=SUCCESS method=UserRegistrationTestWithDDTandJavaFaker.RegisterdUserCanLogout()[pri:0, instance:Tests.UserRegistrationTestWithDDTandJavaFaker@67b100fe] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotOnFailure -->
+        <test-method signature="RegisterdUserCanLogin()[pri:0, instance:Tests.UserRegistrationTestWithDDTandJavaFaker@67b100fe]" started-at="2022-06-03T12:05:42 EET" name="RegisterdUserCanLogin" finished-at="2022-06-03T12:05:44 EET" depends-on-methods="Tests.UserRegistrationTestWithDDTandJavaFaker.RegisterdUserCanLogout" duration-ms="2073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterdUserCanLogin -->
+        <test-method is-config="true" signature="screenshotOnFailure(org.testng.ITestResult)[pri:0, instance:Tests.UserRegistrationTestWithDDTandJavaFaker@67b100fe]" started-at="2022-06-03T12:05:44 EET" name="screenshotOnFailure" finished-at="2022-06-03T12:05:44 EET" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=RegisterdUserCanLogin status=SUCCESS method=UserRegistrationTestWithDDTandJavaFaker.RegisterdUserCanLogin()[pri:0, instance:Tests.UserRegistrationTestWithDDTandJavaFaker@67b100fe] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotOnFailure -->
+        <test-method is-config="true" signature="stopDriver()[pri:0, instance:Tests.UserRegistrationTestWithDDTandJavaFaker@67b100fe]" started-at="2022-06-03T12:05:47 EET" name="stopDriver" finished-at="2022-06-03T12:05:47 EET" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+      </class> <!-- Tests.UserRegistrationTestWithDDTandJavaFaker -->
+      <class name="Tests.ChangeCurrencyTest">
+        <test-method signature="UserCanChangeCurrency()[pri:1, instance:Tests.ChangeCurrencyTest@4beabeec]" started-at="2022-06-03T12:05:37 EET" name="UserCanChangeCurrency" finished-at="2022-06-03T12:05:38 EET" duration-ms="1034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserCanChangeCurrency -->
+        <test-method is-config="true" signature="screenshotOnFailure(org.testng.ITestResult)[pri:0, instance:Tests.ChangeCurrencyTest@4beabeec]" started-at="2022-06-03T12:05:38 EET" name="screenshotOnFailure" finished-at="2022-06-03T12:05:38 EET" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UserCanChangeCurrency status=SUCCESS method=ChangeCurrencyTest.UserCanChangeCurrency()[pri:1, instance:Tests.ChangeCurrencyTest@4beabeec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotOnFailure -->
+        <test-method signature="UserCanSearchWithAutoSuggest()[pri:2, instance:Tests.ChangeCurrencyTest@4beabeec]" started-at="2022-06-03T12:05:44 EET" name="UserCanSearchWithAutoSuggest" finished-at="2022-06-03T12:05:47 EET" duration-ms="2862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserCanSearchWithAutoSuggest -->
+        <test-method is-config="true" signature="screenshotOnFailure(org.testng.ITestResult)[pri:0, instance:Tests.ChangeCurrencyTest@4beabeec]" started-at="2022-06-03T12:05:47 EET" name="screenshotOnFailure" finished-at="2022-06-03T12:05:47 EET" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UserCanSearchWithAutoSuggest status=SUCCESS method=ChangeCurrencyTest.UserCanSearchWithAutoSuggest()[pri:2, instance:Tests.ChangeCurrencyTest@4beabeec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotOnFailure -->
+      </class> <!-- Tests.ChangeCurrencyTest -->
+      <class name="Tests.ProductHoverMenuTest">
+        <test-method signature="UserCanSelectCategoryFromMenu()[pri:0, instance:Tests.ProductHoverMenuTest@3fe46690]" started-at="2022-06-03T12:05:36 EET" name="UserCanSelectCategoryFromMenu" finished-at="2022-06-03T12:05:37 EET" duration-ms="1131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserCanSelectCategoryFromMenu -->
+        <test-method is-config="true" signature="screenshotOnFailure(org.testng.ITestResult)[pri:0, instance:Tests.ProductHoverMenuTest@3fe46690]" started-at="2022-06-03T12:05:37 EET" name="screenshotOnFailure" finished-at="2022-06-03T12:05:37 EET" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UserCanSelectCategoryFromMenu status=SUCCESS method=ProductHoverMenuTest.UserCanSelectCategoryFromMenu()[pri:0, instance:Tests.ProductHoverMenuTest@3fe46690] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotOnFailure -->
+      </class> <!-- Tests.ProductHoverMenuTest -->
+    </test> <!-- test -->
+  </suite> <!-- nopcommerce regression suite -->
+</testng-results>

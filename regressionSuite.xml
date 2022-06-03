@@ -1,9 +1,9 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 <suite name="nopcommerce regression suite">
     <parameter name="browser" value="chrome"></parameter>
-    <test name="test">
+    <test name="test" preserve-order="false">
         <classes>
-            <class name="Tests.UserRegistrationTest"/>
+            <class name="Tests.UserRegistrationTestWithDDTandJavaFaker"/>
             <class name="Tests.ProductHoverMenuTest"/>
             <class name="Tests.ChangeCurrencyTest"/>
 
