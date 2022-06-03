@@ -1,0 +1,103 @@
+[INFO  - 2022-05-16T10:31:56.657Z] GhostDriver - Main - running on port 58624
+[INFO  - 2022-05-16T10:31:57.105Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2022-05-16T10:31:57.105Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.customHeaders:  - {}
+[INFO  - 2022-05-16T10:31:57.106Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-05-16T10:31:57.107Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 695db5d0-d503-11ec-a993-133b7df71f51
+[ERROR - 2022-05-16T10:32:06.457Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2022-05-16T10:32:06.457Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[ERROR - 2022-05-16T10:32:06.457Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2022-05-16T10:32:06.457Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[ERROR - 2022-05-16T10:32:06.457Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2022-05-16T10:32:06.457Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[ERROR - 2022-05-16T10:32:06.457Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2022-05-16T10:32:06.457Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[ERROR - 2022-05-16T10:32:06.458Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2022-05-16T10:32:06.458Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[ERROR - 2022-05-16T10:32:06.458Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2022-05-16T10:32:06.458Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[ERROR - 2022-05-16T10:32:06.458Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2022-05-16T10:32:06.458Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[ERROR - 2022-05-16T10:32:06.458Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2022-05-16T10:32:06.458Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[ERROR - 2022-05-16T10:32:06.459Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - msg: ReferenceError: Can't find variable: AjaxCart
+[ERROR - 2022-05-16T10:32:06.459Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[ERROR - 2022-05-16T10:32:06.459Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2022-05-16T10:32:06.459Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[ERROR - 2022-05-16T10:32:06.459Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2022-05-16T10:32:06.459Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[ERROR - 2022-05-16T10:32:06.459Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2022-05-16T10:32:06.459Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[ERROR - 2022-05-16T10:32:06.460Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2022-05-16T10:32:06.460Z] Session [695db5d0-d503-11ec-a993-133b7df71f51] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[INFO  - 2022-05-16T10:32:08.401Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2022-05-16T10:41:26.873Z] GhostDriver - Main - running on port 53238
+[INFO  - 2022-05-16T10:41:27.403Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2022-05-16T10:41:27.403Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.customHeaders:  - {}
+[INFO  - 2022-05-16T10:41:27.403Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-05-16T10:41:27.403Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0
+[ERROR - 2022-05-16T10:41:32.794Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1652697692791
+[ERROR - 2022-05-16T10:41:34.417Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2022-05-16T10:41:34.417Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[ERROR - 2022-05-16T10:41:34.417Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2022-05-16T10:41:34.417Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[ERROR - 2022-05-16T10:41:34.417Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2022-05-16T10:41:34.418Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[ERROR - 2022-05-16T10:41:34.418Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2022-05-16T10:41:34.418Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[ERROR - 2022-05-16T10:41:34.418Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2022-05-16T10:41:34.418Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[ERROR - 2022-05-16T10:41:34.418Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2022-05-16T10:41:34.418Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[ERROR - 2022-05-16T10:41:34.419Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2022-05-16T10:41:34.419Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[ERROR - 2022-05-16T10:41:34.419Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2022-05-16T10:41:34.419Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[ERROR - 2022-05-16T10:41:34.419Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - msg: ReferenceError: Can't find variable: AjaxCart
+[ERROR - 2022-05-16T10:41:34.419Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[ERROR - 2022-05-16T10:41:34.419Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2022-05-16T10:41:34.419Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[ERROR - 2022-05-16T10:41:34.419Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2022-05-16T10:41:34.419Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[ERROR - 2022-05-16T10:41:34.420Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2022-05-16T10:41:34.420Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[ERROR - 2022-05-16T10:41:34.420Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2022-05-16T10:41:34.420Z] Session [bd4a4770-d504-11ec-ab1e-b9e7c12ca0c0] - page.onError - stack:
+  global code (https://demo.nopcommerce.com/notebooks:1)
+[INFO  - 2022-05-16T10:41:35.693Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2022-05-16T10:59:32.422Z] GhostDriver - Main - running on port 53751
+[INFO  - 2022-05-16T10:59:32.977Z] Session [4457b9d0-d507-11ec-8e24-49c50c5450f5] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2022-05-16T10:59:32.977Z] Session [4457b9d0-d507-11ec-8e24-49c50c5450f5] - page.customHeaders:  - {}
+[INFO  - 2022-05-16T10:59:32.977Z] Session [4457b9d0-d507-11ec-8e24-49c50c5450f5] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-05-16T10:59:32.977Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 4457b9d0-d507-11ec-8e24-49c50c5450f5
+[INFO  - 2022-05-16T10:59:36.556Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2022-05-16T11:00:07.923Z] GhostDriver - Main - running on port 55337
+[INFO  - 2022-05-16T11:00:08.436Z] Session [597a5700-d507-11ec-8749-8510eed5bb68] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2022-05-16T11:00:08.436Z] Session [597a5700-d507-11ec-8749-8510eed5bb68] - page.customHeaders:  - {}
+[INFO  - 2022-05-16T11:00:08.436Z] Session [597a5700-d507-11ec-8749-8510eed5bb68] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-05-16T11:00:08.437Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 597a5700-d507-11ec-8749-8510eed5bb68
+[INFO  - 2022-05-16T11:00:14.480Z] ShutdownReqHand - _handle - About to shutdown

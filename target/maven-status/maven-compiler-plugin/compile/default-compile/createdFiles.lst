@@ -1,0 +1,9 @@
+Pages\PageBase.class
+Pages\EmailPage.class
+Pages\UserRegistrationPage.class
+Pages\ProductDetailsPage.class
+Pages\MyAccountPage.class
+Pages\ContactUsPage.class
+Pages\LoginPage.class
+Pages\HomePage.class
+Pages\SearchPage.class

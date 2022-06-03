@@ -1,0 +1,10 @@
+Tests\ProductHoverMenuTest.class
+Tests\ContactUsTest.class
+Tests\MyAccountTest.class
+Utilities\Helper.class
+Tests\SearchProductUsingAutoSuggest.class
+Tests\EmailFriendTest.class
+Tests\TestBase.class
+Tests\UserRegistrationTest.class
+Tests\ChangeCurrencyTest.class
+Tests\SearchProductTest.class
